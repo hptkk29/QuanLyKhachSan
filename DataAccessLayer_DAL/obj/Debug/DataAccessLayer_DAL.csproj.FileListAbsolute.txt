@@ -1,0 +1,9 @@
+D:\C#\QuanLyKhachSan\DataAccessLayer_DAL\bin\Debug\DataAccessLayer_DAL.dll
+D:\C#\QuanLyKhachSan\DataAccessLayer_DAL\bin\Debug\DataAccessLayer_DAL.pdb
+D:\C#\QuanLyKhachSan\DataAccessLayer_DAL\bin\Debug\DataTransferObject_DTO.dll
+D:\C#\QuanLyKhachSan\DataAccessLayer_DAL\bin\Debug\DataTransferObject_DTO.pdb
+D:\C#\QuanLyKhachSan\DataAccessLayer_DAL\obj\Debug\DataAccessLayer_DAL.csproj.AssemblyReference.cache
+D:\C#\QuanLyKhachSan\DataAccessLayer_DAL\obj\Debug\DataAccessLayer_DAL.csproj.CoreCompileInputs.cache
+D:\C#\QuanLyKhachSan\DataAccessLayer_DAL\obj\Debug\DataAccessLayer_DAL.csproj.CopyComplete
+D:\C#\QuanLyKhachSan\DataAccessLayer_DAL\obj\Debug\DataAccessLayer_DAL.dll
+D:\C#\QuanLyKhachSan\DataAccessLayer_DAL\obj\Debug\DataAccessLayer_DAL.pdb

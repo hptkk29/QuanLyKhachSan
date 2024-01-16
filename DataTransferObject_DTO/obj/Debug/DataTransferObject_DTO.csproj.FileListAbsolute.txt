@@ -1,0 +1,6 @@
+D:\C#\QuanLyKhachSan\DataTransferObject_DTO\bin\Debug\DataTransferObject_DTO.dll
+D:\C#\QuanLyKhachSan\DataTransferObject_DTO\bin\Debug\DataTransferObject_DTO.pdb
+D:\C#\QuanLyKhachSan\DataTransferObject_DTO\obj\Debug\DataTransferObject_DTO.csproj.AssemblyReference.cache
+D:\C#\QuanLyKhachSan\DataTransferObject_DTO\obj\Debug\DataTransferObject_DTO.csproj.CoreCompileInputs.cache
+D:\C#\QuanLyKhachSan\DataTransferObject_DTO\obj\Debug\DataTransferObject_DTO.dll
+D:\C#\QuanLyKhachSan\DataTransferObject_DTO\obj\Debug\DataTransferObject_DTO.pdb

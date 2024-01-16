@@ -1,0 +1,11 @@
+D:\C#\QuanLyKhachSan\BusinessLogicLayer_BLL\bin\Debug\BusinessLogicLayer_BLL.dll
+D:\C#\QuanLyKhachSan\BusinessLogicLayer_BLL\bin\Debug\BusinessLogicLayer_BLL.pdb
+D:\C#\QuanLyKhachSan\BusinessLogicLayer_BLL\bin\Debug\DataAccessLayer_DAL.dll
+D:\C#\QuanLyKhachSan\BusinessLogicLayer_BLL\bin\Debug\DataTransferObject_DTO.dll
+D:\C#\QuanLyKhachSan\BusinessLogicLayer_BLL\bin\Debug\DataAccessLayer_DAL.pdb
+D:\C#\QuanLyKhachSan\BusinessLogicLayer_BLL\bin\Debug\DataTransferObject_DTO.pdb
+D:\C#\QuanLyKhachSan\BusinessLogicLayer_BLL\obj\Debug\BusinessLogicLayer_BLL.csproj.AssemblyReference.cache
+D:\C#\QuanLyKhachSan\BusinessLogicLayer_BLL\obj\Debug\BusinessLogicLayer_BLL.csproj.CoreCompileInputs.cache
+D:\C#\QuanLyKhachSan\BusinessLogicLayer_BLL\obj\Debug\BusinessLogicLayer_BLL.csproj.CopyComplete
+D:\C#\QuanLyKhachSan\BusinessLogicLayer_BLL\obj\Debug\BusinessLogicLayer_BLL.dll
+D:\C#\QuanLyKhachSan\BusinessLogicLayer_BLL\obj\Debug\BusinessLogicLayer_BLL.pdb
